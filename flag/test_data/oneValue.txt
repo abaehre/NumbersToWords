@@ -1,0 +1,1 @@
+"Input\tOutput\n--------------\n282820\tTwo hundred and eighty two thousand eight hundred and twenty\n"
